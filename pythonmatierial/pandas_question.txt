@@ -1,0 +1,31 @@
+Using the loan_data.csvs dataset, do the following
+
+
+1) Read the file and find the number of rows & columns 
+in the data set as well as understand the datatype 
+of the various columns
+
+2) Determine the  frequency distribution of the 
+field property area
+
+3) Calculate the summary stats of the numeric 
+variables in the data set
+
+4) Create a new dataframe which only has data for 
+Graduates and who have been approved for a loan
+
+5) Determine if the credit history of an applicant 
+has a relationship to loan application approval 
+
+6) Determine the number of missing values in the 
+dataset by variable
+
+7) Impute the missing values for loan amount using 
+the median value of loan amount
+
+8) Create a system that uses classes, exception handling, functions etc where the code inputs certain values like gender, salary, marital status, spouse salary, credit history. The system should give an output of whether the person is likely to get a loan or not. 
+
+
+
+
+

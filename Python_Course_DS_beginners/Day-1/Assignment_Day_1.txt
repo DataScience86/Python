@@ -1,0 +1,43 @@
+Practice Questions ::
+
+Version A
+Question 1 - Print the list of all the prime numbers between 0-50.
+
+Version B
+Question 1 - Print every 4th number from the list prime numbers between 0-50.
+
+Version A
+Question 2 - Ask user to entre the password and say accepted if password is "avengers". Else print "Wrong Password".
+
+Version B
+Question 2 - Ask user to entre the password and say accepted if password is "avengers". Else print "Wrong Password". 
+				user should be prompted to re enter the password and should be given 3 changes to print the password.
+				If he enters wrong password even in the third attempt. Print "You have used all attempts, wait for 20 seconds to retry"
+				
+
+Version A
+Question 3 - Create a function which prints the fabonnici series till (n - 1)th term. Here n is passed as a parameter to the function.
+
+Version B
+Question 3 - Create a function which prints the fabonnici series of only the odd numbers.
+
+Version A
+Question 4 - write a function by the name math_operations(). This should have 4 options as given below:
+				1 - Addition
+				2 - Division
+				3 - Multiplication
+				4 - Division
+			user should be prompted to choose between the 4 options and should then be asked to provide num1 and num2. Based upon the 
+			choice of the user return the final value after applying the operation selected by the user.
+
+Version B
+Question 4 - In the above function add the exceptions like valueError and ZeroDivision Error. Also prompt the user to enter a choice if
+			 he chooses a option which is not between 1 - 4 numbers as mentioned.
+			
+Question 5 - Write a function which contactinates the two strings provided by the user.
+
+
+Question 6 - Write briefly about all the data structures we discussed in the class.
+			
+
+			 

@@ -1,0 +1,40 @@
+Python is a modern, object-oriented scripting language. 
+Python was developed in the late 1980s by Dutch research programmer Guido van Rossum. 
+Guido wrote the first Python interpreter over his Christmas holiday in 1989. 
+He chose the name Python as a reference to Monty Python's Flying Circus. 
+
+
+It's always a good idea to make your code elegant and readable. 
+Explicit is better than implicit. Don't make your readers guess what your code does, 
+make it obvious. Simple is better than complex. If you can make it simple, do. 
+Complex is better than complicated. If complexity is necessary, don't complicate it. 
+Readability counts. As a casual reader with a good understanding of the Python language, 
+you should be able to understand the code with a minimal amount of effort.
+
+Python 3 is very close to Guido's ideal vision for Python. Code written for Python 2 
+must be ported for use with Python 3. All data types, including functions and classes, 
+are now built on Python's object model. In Python 2, print was a keyword, and it didn't 
+require parentheses. In Python 3 it is a function, and it does require parentheses.
+
+Python 2 had separate types for integers and long integers. Now there is just one integer type. 
+Python 2 had separate types of strings for Unicode, Ascii, and APID data. All text is now Unicode, 
+and there's a separate APID data type. This course teaches Python 3.
+
+I strongly recommend that you write new code using Python 3 exclusively. Python is a rich language, 
+and it would be impossible for me to cover all of it in the time allotted for this course. 
+The online documentation is both accessible and exhaustive. I recommend you become familiar with it. 
+Python is a very powerful and versatile programming language. It's supported on virtually all common 
+operating systems and it's easy to learn and to support. In the rest of this course, I'll show you the 
+essentials of Python, so you may develop quick and easy solutions to common problems, as well as larger,
+more complex interactive systems. This course will enable you to learn any other programming language 
+with greater understanding, leading you will be able to quicky learn them.
+
+My success lies in your success. Here how the journey to success be like:
+
+1. "Would you like me to give you a formula for success? It's quite simple, really: 
+Double your rate of failure. You are thinking of failure as the enemy of success. 
+But it isn't at all. You can be discouraged by failure or you can learn from it, 
+so go ahead and make mistakes. 
+
+2. "Success is not final; failure is not fatal: It is the courage to continue that counts."
+Make all you can. Because remember that's where you will find success."

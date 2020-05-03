@@ -1,0 +1,15 @@
+Sometime comments are introduced by the hash mark or the pound sign, 
+and the first comment is a special case of a comment. It's called a 
+shebang line or sometimes hashbang.
+
+The shebang line is a common pattern for Unix based systems. 
+It allows a script to be invoked from the command line. There 
+are two parts to the shebang line. The hash mark and the exclamation 
+sign must be the first two characters on the first line of the file. 
+These marks together form the shebang. An exclamation mark is sometimes 
+called a bang, so hash plus bang is where the word shebang comes from. 
+There must be no lines before this line, and no spaces before these first 
+two characters.
+
+example :
+#!/usr/bin/env python3

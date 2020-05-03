@@ -1,0 +1,16 @@
+
+
+open command prompt
+
+cd ..
+cd ..
+cd Python27
+cd Scripts
+
+pip.exe install numpy
+pip.exe install pandas
+
+
+open new python prompt
+
+import pandas
